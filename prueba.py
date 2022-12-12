@@ -1,6 +1,4 @@
-
 #create a program in python that integrate the 2d harmonic oscillator and represent it in configuration space
-
 #import necessary modules
 import numpy as np
 import matplotlib.pyplot as plt
